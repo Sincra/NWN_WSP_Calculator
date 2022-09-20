@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<scroll_data>
+	<scroll>
+		<name>Acid fog</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Acid splash</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Aid</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Amplify</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Animate dead</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Aura of vitality</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Aura versus Alignment</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Aura of Glory</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Avascular Mass</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Awaken</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Balagarn's iron horn</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ball lightning</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bane</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Banishment</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Barkskin</name>
+		<innate_level>2</innate_level>
+		<caster_level>12</caster_level>
+	</scroll>
+	<scroll>
+		<name>Battletide</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bestow curse</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Clenched Fist</name>
+		<innate_level>8</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Crushing Hand</name>
+		<innate_level>9</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Disrupting Hand</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Forceful hand</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Grasping hand</name>
+		<innate_level>7</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bigby's Interposing hand</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Black Blade of Disaster</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blackstaff</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blade barrier</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blade Thirst</name>
+		<innate_level>3</innate_level>
+		<caster_level>12</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blasphemy</name>
+		<innate_level>7</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Bless</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bless weapon</name>
+		<innate_level>1</innate_level>
+		<caster_level>6</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blindness/deafness</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Blood frenzy</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bombardment</name>
+		<innate_level>8</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Bull's strength</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Burning hands</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Call lightning</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Camouflage</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cat's grace</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Chain lightning</name>
+		<innate_level>6</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Chaos Shield</name>
+		<innate_level>2</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Charm monster</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Charm person</name>
+		<innate_level>1</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Charm person or animal</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Chromatic Orb</name>
+		<innate_level>1</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Circle of death</name>
+		<innate_level>6</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Circle of doom</name>
+		<innate_level>5</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Clairaudience/clairvoyance</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Clarity</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cloud of bewilderment</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cloudkill</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Colour spray</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Command</name>
+		<innate_level>1</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Combust</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cone of cold</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Confusion</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Contagion</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Continual flame</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Control undead</name>
+		<innate_level>7</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Create greater undead</name>
+		<innate_level>8</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Create undead</name>
+		<innate_level>6</innate_level>
+		<caster_level>16</caster_level>
+	</scroll>
+	<scroll>
+		<name>Creeping doom</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Crumble</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Crushing Despair</name>
+		<innate_level>3</innate_level>
+		<caster_level>8</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cure critical wounds</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cure light wounds</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cure minor wounds</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cure moderate wounds</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Cure serious wounds</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Daltims fiery Tentacles</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dark Undertow</name>
+		<innate_level>5</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Darkbolt</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Darkfire</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Darkness</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Daze</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Deafening clang</name>
+		<innate_level>1</innate_level>
+		<caster_level>6</caster_level>
+	</scroll>
+	<scroll>
+		<name>Death armour</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Death ward</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Delayed blast fireball</name>
+		<innate_level>7</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Destruction</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Detect Poison</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dirge</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Disintegrate</name>
+		<innate_level>7</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Dismissal</name>
+		<innate_level>4</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dispel magic</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Displacement</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Divine favour</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Divine power</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dominate Animal</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dominate monster</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Dominate person</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Doom</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Drown</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Eagle's splendor</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Earthquake</name>
+		<innate_level>8</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Electric jolt</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Elemental shield</name>
+		<innate_level>4</innate_level>
+		<caster_level>12</caster_level>
+	</scroll>
+	<scroll>
+		<name>Elemental swarm</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Endurance</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Endure elements</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Energy buffer</name>
+		<innate_level>6</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Energy drain</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Enervation</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Entangle</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Entropic shield</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ethereal visage</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Evard's black tentacles</name>
+		<innate_level>4</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Evil Blight</name>
+		<innate_level>6</innate_level>
+		<caster_level>12</caster_level>
+	</scroll>
+	<scroll>
+		<name>Expeditious retreat</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Eye Bite</name>
+		<innate_level>6</innate_level>
+		<caster_level>8</caster_level>
+	</scroll>
+	<scroll>
+		<name>Fear</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Faerie Fire</name>
+		<innate_level>1</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Feeblemind</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Find traps</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Finger of Agony</name>
+		<innate_level>4</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Finger of Death</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Fire Storm</name>
+		<innate_level>7</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Fireball</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Firebrand</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flame arrow</name>
+		<innate_level>3</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flame lash</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flame strike</name>
+		<innate_level>4</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flame weapon</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flare</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Flesh to stone</name>
+		<innate_level>6</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Fox's cunning</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Freedom of movement</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Freeze</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Frost Nova</name>
+		<innate_level>3</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Frost Shield</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Frostbite</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Gate</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Gedlee's electric loop</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ghostly visage</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ghoul touch</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Glacial Wrath</name>
+		<innate_level>15</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Globe of invulnerability</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Glyph of warding</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Grease</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Great thunderclap</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater dispelling</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater magic fang</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater magic weapon</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater planar binding</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater restoration</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater sanctuary</name>
+		<innate_level>7</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater shadow conjuration</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater spell breach</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater spell mantle</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Greater stoneskin</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Good Hope</name>
+		<innate_level>3</innate_level>
+		<caster_level>8</caster_level>
+	</scroll>
+	<scroll>
+		<name>Gust of wind</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Halt Undead</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Hammer of the gods</name>
+		<innate_level>4</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Harm</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Haste</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Heal</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Healing Circle</name>
+		<innate_level>5</innate_level>
+		<caster_level>16</caster_level>
+	</scroll>
+	<scroll>
+		<name>Hell Inferno</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Healing sting</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Hold animal</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Hold monster</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Hold person</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Holy sword</name>
+		<innate_level>4</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Horizikaul's boom</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Horrid wilting</name>
+		<innate_level>8</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ice dagger</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ice storm</name>
+		<innate_level>4</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Iceberg</name>
+		<innate_level>9</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Identify</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Implosion</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Improved Chaos Shield</name>
+		<innate_level>7</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Improved invisibility</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Incendiary cloud</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inferno</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Infestation of maggots</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inflict critical wounds</name>
+		<innate_level>4</innate_level>
+		<caster_level>12</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inflict light wounds</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inflict minor wounds</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inflict moderate wounds</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Inflict serious wounds</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Invisibility</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Invisibility Purge</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Invisibility sphere</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Irresistible Dance</name>
+		<innate_level>7</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>	
+	<scroll>
+		<name>Ironguts</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Isaac's greater missile storm</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Isaac's lesser missile storm</name>
+		<innate_level>4</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Keen edge</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Knock</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Kyristan's Malevolent Tentacles</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Legend lore</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser dispel</name>
+		<innate_level>2</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser mind blank</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser planar binding</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser restoration</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser spell breach</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lesser spell mantle</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Light</name>
+		<innate_level>0</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lightning bolt</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Lightning Shield</name>
+		<innate_level>5</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mage armour</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Magic circle against alignment</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Magic fang</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Magic missile</name>
+		<innate_level>1</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Magic vestment</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Magic weapon</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Bear's Endurance</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Bull's Strength</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass blindness/deafness</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Camouflage</name>
+		<innate_level>4</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Cat's Strength</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Charm</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Eagle's Splendor</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Fox's Cunning</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Haste</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Hold Monster</name>
+		<innate_level>9</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Heal</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mass Owl's Wisdom</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Maze</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Melf's acid arrow</name>
+		<innate_level>2</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mestil's acid breath</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mestil's acid sheath</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Meteor swarm</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mind blank</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mind fog</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Minor globe of invulnerability</name>
+		<innate_level>4</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Monstrous regeneration</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Moonbeam</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mordenkainen's disjunction</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Mordenkainen's sword</name>
+		<innate_level>7</innate_level>
+		<caster_level>18</caster_level>
+	</scroll>
+	<scroll>
+		<name>Nahals Reckless Dweomer</name>
+		<innate_level>1</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Nature's balance</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Negative energy burst</name>
+		<innate_level>5</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Negative energy protection</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Negative energy ray</name>
+		<innate_level>1</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Neutralize poison</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Nightmare</name>
+		<innate_level>5</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>One with the land</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Owl's insight</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Owl's wisdom</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Phantasmal killer</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Planar ally</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Planar Binding</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Poison</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Polymorph self</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Power word, kill</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Power word, stun</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Prayer</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Premonition</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Prismatic spray</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Protection from alignment</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Protection from elements</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Protection from spells</name>
+		<innate_level>7</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Quillfire</name>
+		<innate_level>3</innate_level>
+		<caster_level>8</caster_level>
+	</scroll>
+	<scroll>
+		<name>Raise dead</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ray of enfeeblement</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ray of frost</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Regenerate</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Remove blindness/deafness</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Remove curse</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Remove disease</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Remove fear</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Remove paralysis</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Resist elements</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Resistance</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Restoration</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Resurrection</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Rogues Cunning</name>
+		<innate_level>3</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sanctuary</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Scare</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Scintillating sphere</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Scintillating Pattern</name>
+		<innate_level>8</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Scorching Ray</name>
+		<innate_level>2</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Searing light</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>See invisibility</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shades</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow conjuration (darkness)</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow conjuration (invisibility)</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow conjuration (mage armour)</name>
+		<innate_level>1</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow conjuration (magic missile)</name>
+		<innate_level>1</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow conjuration (summon shadow)</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow Evocation</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow Plague</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shadow shield</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shapechange</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shelgarn's persistent blade</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shield</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Shield of faith</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Silence</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Slay living</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sleep</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Slow</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sound burst</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sound Lance</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</scroll>
+	<scroll>
+		<name>Spell mantle</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Spell resistance</name>
+		<innate_level>5</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Spike growth</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Stinking cloud</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Stone bones</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Stone to flesh</name>
+		<innate_level>6</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Stonehold</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Stoneskin</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Storm of Vengeance</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 1</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 2</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 3</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 4</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 5</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 6</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 7</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 8</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Summon creature 9</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sunbeam</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sunburst</name>
+		<innate_level>8</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sunfire</name>
+		<innate_level>5</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Sustenance</name>
+		<innate_level>5</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Tasha's hideous laughter</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Tenser's transformation</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Time stop</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>True seeing</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>True strike</name>
+		<innate_level>1</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Ultravision</name>
+		<innate_level>2</innate_level>
+		<caster_level>6</caster_level>
+	</scroll>
+	<scroll>
+		<name>Undeath to death</name>
+		<innate_level>6</innate_level>
+		<caster_level>11</caster_level>
+	</scroll>
+	<scroll>
+		<name>Undeath's eternal foe</name>
+		<innate_level>9</innate_level>
+		<caster_level>20</caster_level>
+	</scroll>
+	<scroll>
+		<name>Vampiric touch</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</scroll>
+	<scroll>
+		<name>Vine mine</name>
+		<innate_level>5</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Virtue</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</scroll>
+	<scroll>
+		<name>Vitriolic Sphere</name>
+		<innate_level>6</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+	<scroll>
+		<name>Wail of the banshee</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Wall of Fire</name>
+		<innate_level>4</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Wall of Ice</name>
+		<innate_level>4</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>War Cry</name>
+		<innate_level>3</innate_level>
+		<caster_level>7</caster_level>
+	</scroll>
+	<scroll>
+		<name>Water Breathing</name>
+		<innate_level>3</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Web</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</scroll>
+	<scroll>
+		<name>Weird</name>
+		<innate_level>9</innate_level>
+		<caster_level>17</caster_level>
+	</scroll>
+	<scroll>
+		<name>Word of faith</name>
+		<innate_level>7</innate_level>
+		<caster_level>13</caster_level>
+	</scroll>
+	<scroll>
+		<name>Wounding whispers</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</scroll>
+	<scroll>
+		<name>Wrathful Castigation</name>
+		<innate_level>8</innate_level>
+		<caster_level>15</caster_level>
+	</scroll>
+ </scroll_data>

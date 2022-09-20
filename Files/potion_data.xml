@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<potion_data>
+	<potion>
+		<name>Acid Splash</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</potion>
+	<potion>
+		<name>Aid</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Amplify</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Animate dead</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Aura of glory</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Balagarns iron horn</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Barkskin</name>
+		<innate_level>2</innate_level>
+		<caster_level>12</caster_level>
+	</potion>
+	<potion>
+		<name>Blade thirst</name>
+		<innate_level>3</innate_level>
+		<caster_level>12</caster_level>
+	</potion>
+	<potion>
+		<name>Bless</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Bless weapon</name>
+		<innate_level>1</innate_level>
+		<caster_level>6</caster_level>
+	</potion>
+	<potion>
+		<name>Blindness/Deafness</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Blood frenzy</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Bull's strength</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Camouflage</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Cat's grace</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Chaos Shield</name>
+		<innate_level>2</innate_level>
+		<caster_level>1</caster_level>
+	</potion>
+	<potion>
+		<name>Chromatic Orb</name>
+		<innate_level>1</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Clairaudience/Clairvoyance</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Command</name>
+		<innate_level>1</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Clarity</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Continual flame</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Cure light wounds</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Cure minor wounds</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</potion>
+	<potion>
+		<name>Cure moderate wounds</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Cure serious wounds</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Crushing Despair</name>
+		<innate_level>3</innate_level>
+		<caster_level>8</caster_level>
+	</potion>
+	<potion>
+		<name>Darkfire</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Darkness</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Deafening clang</name>
+		<innate_level>1</innate_level>
+		<caster_level>6</caster_level>
+	</potion>
+	<potion>
+		<name>Death Armour</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Detect Poison</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Dispel magic</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Displacement</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Divine favour</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Eagle's splendor</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Endurance</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Endure elements</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Entropic shield</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Expeditious retreat</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Faerie Fire</name>
+		<innate_level>1</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Find traps</name>
+		<innate_level>3</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Flame weapon</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Fox's cunning</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Frost Nova</name>
+		<innate_level>3</innate_level>
+		<caster_level>11</caster_level>
+	</potion>
+	<potion>
+		<name>Frostbite</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Ghostly visage</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Good Hope</name>
+		<innate_level>3</innate_level>
+		<caster_level>8</caster_level>
+	</potion>
+	<potion>
+		<name>Greater magic fang</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</potion>
+	<potion>
+		<name>Greater magic weapon</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Halt Undead</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Haste</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Identify</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Invisibility</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Invisibility Purge</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Invisibility sphere</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Ironguts</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Keen edge</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Knock</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Lesser dispel</name>
+		<innate_level>2</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Lesser restoration</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Light</name>
+		<innate_level>0</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Mage Armour</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Magic circle against alignment</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Magic fang</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Magic vestment</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Magic weapon</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Moonbeam</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</potion>
+	<potion>
+		<name>Nahals Reckless Dweomer</name>
+		<innate_level>1</innate_level>
+		<caster_level>1</caster_level>
+	</potion>
+	<potion>
+		<name>Negative energy protection</name>
+		<innate_level>3</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Neutralize poison</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>One with the land</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Owl's wisdom</name>
+		<innate_level>2</innate_level>
+		<caster_level>15</caster_level>
+	</potion>
+	<potion>
+		<name>Prayer</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Protection from alignment</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Protection from elements</name>
+		<innate_level>3</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Remove blindness/deafness</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Remove curse</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Remove disease</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Remove fear</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Remove paralysis</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Resist elements</name>
+		<innate_level>2</innate_level>
+		<caster_level>10</caster_level>
+	</potion>
+	<potion>
+		<name>Resistance</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Rogues Cunning</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Sanctuary</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>See invisiblity</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Shadow conjuration (Darkness)</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Shadow conjuration (Invisibility)</name>
+		<innate_level>2</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Shadow conjuration (Mage Armour)</name>
+		<innate_level>1</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Shadow conjuration (Magic Missile)</name>
+		<innate_level>1</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Shadow conjuration (Summon Shadow)</name>
+		<innate_level>4</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Shelgarn's persistent blade</name>
+		<innate_level>1</innate_level>
+		<caster_level>2</caster_level>
+	</potion>
+	<potion>
+		<name>Shield</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Shield of faith</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Silence</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Stone bones</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Summon Creature 1</name>
+		<innate_level>1</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>Summon Creature 2</name>
+		<innate_level>2</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+	<potion>
+		<name>Summon Creature 3</name>
+		<innate_level>3</innate_level>
+		<caster_level>5</caster_level>
+	</potion>
+	<potion>
+		<name>True strike</name>
+		<innate_level>1</innate_level>
+		<caster_level>20</caster_level>
+	</potion>
+	<potion>
+		<name>Ultravision</name>
+		<innate_level>2</innate_level>
+		<caster_level>6</caster_level>
+	</potion>
+	<potion>
+		<name>Virtue</name>
+		<innate_level>0</innate_level>
+		<caster_level>1</caster_level>
+	</potion>
+	<potion>
+		<name>War cry</name>
+		<innate_level>3</innate_level>
+		<caster_level>7</caster_level>
+	</potion>
+	<potion>
+		<name>Wounding whispers</name>
+		<innate_level>3</innate_level>
+		<caster_level>9</caster_level>
+	</potion>
+	<potion>
+		<name>Water Breathing</name>
+		<innate_level>3</innate_level>
+		<caster_level>3</caster_level>
+	</potion>
+</potion_data>
+
